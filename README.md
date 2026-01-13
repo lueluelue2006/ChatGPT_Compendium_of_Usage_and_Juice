@@ -2,6 +2,5 @@
 
 Linux.Do
 
-<img width="2620" height="2758" alt="（12 12更新）ChatGPT网页版各套餐各模型限额" src="https://github.com/user-attachments/assets/f47fd438-44af-4bbb-a722-2844d6bf520d" />
-
-<img width="5200" height="2435" alt="（12 12更新）ChatGPT模型Juice值图鉴" src="https://github.com/user-attachments/assets/b1440537-cf4f-479e-9cfc-26bca4c1f764" />
+<img width="1888" height="3146" alt="用量统计" src="https://github.com/user-attachments/assets/0ad3f27d-5d65-4a15-85eb-fdf4c4306c3f" />
+<img width="1888" height="3146" alt="juice值" src="https://github.com/user-attachments/assets/804209d4-7c92-4e79-a7b4-01ba4abb1770" />
