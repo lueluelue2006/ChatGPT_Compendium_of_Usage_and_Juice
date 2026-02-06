@@ -1,12 +1,9 @@
-2025.02.06-3
+# ChatGPT Compendium of Usage and Juice
 
-Linux.Do
+Date: 2025.02.06-3  
+Community: Linux.Do
 
-- English: `README_EN.md`
-
-## English Version
-
-Latest screenshots are organized in the `screenshots/` folder.
+## Latest Screenshots
 
 ### ChatGPT Web Plans & Model Limits
 
