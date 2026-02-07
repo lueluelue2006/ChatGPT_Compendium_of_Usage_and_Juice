@@ -24,8 +24,3 @@ Linux.Do
 
 #### ChatGPT Model Juice Reference
 [![ChatGPT Model Juice Reference](screenshots/juice-en.png)](screenshots/juice-en.png)
-
----
-
-Tips: keep these four filenames fixed under `screenshots/`.  
-When you regenerate images, just overwrite the files and README will auto-show latest images.
