@@ -1,12 +1,12 @@
 <!--
 Maintenance rules for future GPT editors:
-2026.02.07-1
+1) The first line must use `YYYY.MM.DD-N`.
    - `YYYY.MM.DD` is the commit date.
    - `N` is the Nth submission of that date, decided by the user.
 2) The second line must stay as the Linux.Do website link.
 -->
 
-2025.01.16-1
+2026.02.07-2
 
 [Linux.Do](https://linux.do)
 
