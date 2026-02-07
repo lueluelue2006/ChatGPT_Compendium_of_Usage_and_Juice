@@ -1,16 +1,22 @@
+<!--
+Maintenance rules for future GPT editors:
+1) The first line must use `YYYY.MM.DD-N`.
+   - `YYYY.MM.DD` is the commit date.
+   - `N` is the Nth submission of that date, decided by the user.
+2) The second line must stay as the Linux.Do website link.
+-->
+
 2025.01.16-1
 
-Linux.Do
+[Linux.Do](https://linux.do)
 
-## Quick Links
-
-- English Version: https://github.com/lueluelue2006/ChatGPT_Compendium_of_Usage_and_Juice?tab=readme-ov-file#english-version
-- 中文版： https://github.com/lueluelue2006/ChatGPT_Compendium_of_Usage_and_Juice?tab=readme-ov-file#中文版
+| [English Version](#english-version) | [中文版](#中文版) |
+| --- | --- |
 
 ## Note
 
 First spotted by: [@btibor91](https://x.com/btibor91)  
-Original post: https://x.com/btibor91/status/1955241562486763962
+Original post: [x.com/btibor91/status/1955241562486763962](https://x.com/btibor91/status/1955241562486763962)
 
 ## English Version
 
