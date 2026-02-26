@@ -1,3 +1,17 @@
-AGENTS.md
+# 默认不允许提交仓库内除说明文件和截图外的内容
+*
+
+# 允许的文件类型
+!.gitignore
+!AGENTS.md
+!README.md
+!screenshots/
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
+!screenshots/*.webp
+!screenshots/*.gif
+
+# 仍然禁止所有 html/htm 文件
 *.html
 *.htm
