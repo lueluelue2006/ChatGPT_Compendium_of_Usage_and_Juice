@@ -6,7 +6,7 @@ Maintenance rules for future GPT editors:
 2) The second line must stay as the Linux.Do website link.
 -->
 
-2026.09.23-1
+2026.09.23-2
 
 [Linux.Do](https://linux.do)
 
